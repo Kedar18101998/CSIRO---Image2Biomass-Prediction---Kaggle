@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+submission.csv
+.ipynb_checkpoints
+.kaggle/
