@@ -1,4 +1,4 @@
-# CSIRO Biomass Prediction using DINOv3
+# CSIRO Biomass Prediction using DINOv3 (link: https://www.kaggle.com/competitions/csiro-biomass)
 
 This repository contains a metric-optimized machine learning pipeline
 for the CSIRO Biomass Estimation Kaggle Competition.
